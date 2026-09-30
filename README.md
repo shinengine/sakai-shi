@@ -12,3 +12,9 @@
 ### Css
 - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
 - https://js.cybozu.com/sweetalert/v1.1.3/sweetalert.css
+
+
+## システム仕様
+- **一括更新処理（ボタン）**：一覧画面に表示されているレコードを基にレコードを一括更新することができる機能
+
+- **一括出力CSV（ボタン）**：kintoneの「**書き出し**」機能ではサブテーブルの出力が見にくいためエクスポートできる機能
